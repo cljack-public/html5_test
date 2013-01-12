@@ -1,0 +1,21 @@
+*log
+
+# ignore eclise settingss
+.project
+.settings
+.buildpath
+
+# ignore dream weaver stuff
+dwsynch.xml
+_notes/
+*dwsync.xml*
+*_notes/*
+
+/application/logs/*
+
+# ignore backup files
+*~
+*orig
+
+#ignore mac filesyatem stuff
+.DS_Store
